@@ -26,14 +26,53 @@ Download xpgold.7z from here first.
 
 Unzip xpgold.7z 
 
-ES File Explorer 
+#### ES File Explorer 
 
-[Download](https://dw54.uptodown.com/dwn/kbRijshpfiKzvQ4pgX-R4cUfjtlvtufA23TiYhdf6QO593xTiio-lbaw3nc6LSBiWjiKrGkwWbC5gRR7ivvbs_gHd9uG8FehAnh0uw9RdBwlEdxktxBdMv8eEZe0eCth/BTZswG0DXv128z3AsxuEHHaa2GjdrXjR0F1YbSrZschSVpvV6b_6gwxnANH0oGAunLuGwabOoKwokekTyYmqAw7QMA9HOxJqP_rFrdQyJqauU-Gb-PT4gnJLJKBHa7lQ/RBjEaDM-qLjJGTbsK7niVvwUA1HKLyuFLUaJ4WYWA1g59oyeJ4pkwiSBlX4oqtfFULBoNhDtaz1dQ9vwmFxlMO_S96oV5Qa3VxrdoKq_7ko=/es-file-explorer-4-4-0-2-1.apk)
-
-Winrar
+[Download](https://archive.org/download/es-file-explorer-4-4-0-2-1_202308/es-file-explorer-4-4-0-2-1.apk)
 
 
+#### Winrar
 
+[Download](https://archive.org/download/rar_20230806/RAR.apk)
+
+#### ISO Maker
+
+[Download](https://archive.org/download/isocraft-v-1.4/ISOCraft_v1.4.apk
+)
+
+## Installation
+
+Install Qemu
+
+```
+pkg up -y;pkg i -y qemu-system-x86-64
+```
+
+Give Storage Permission
+
+```
+termux-setup-storage
+```
+
+Add xpgold to ~/../usr/bin
+```
+bash /storage/emulated/0/Download/xpgold/xpgold.txt
+```
+
+Symlink SDCARD to termux's home
+```
+ln -s /sdcard ~/sdcard
+```
+
+Start Termux Desktop
+```
+tm-x11 &>/dev/null
+```
+
+In Termux-Desktop's Terminal
+```
+xpgold
+```
 
 ## Termux 
 [Download](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk) 
