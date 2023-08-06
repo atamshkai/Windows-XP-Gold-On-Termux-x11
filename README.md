@@ -37,8 +37,7 @@ Unzip xpgold.7z
 
 #### ISO Maker
 
-[Download](https://archive.org/download/isocraft-v-1.4/ISOCraft_v1.4.apk
-)
+[Download](https://archive.org/download/isocraft-v-1.4/ISOCraft_v1.4.apk)
 
 ## Installation
 
@@ -55,21 +54,25 @@ termux-setup-storage
 ```
 
 Add xpgold to ~/../usr/bin
+
 ```
 bash /storage/emulated/0/Download/xpgold/xpgold.txt
 ```
 
 Symlink SDCARD to termux's home
+
 ```
 ln -s /sdcard ~/sdcard
 ```
 
 Start Termux Desktop
+
 ```
 tm-x11 &>/dev/null
 ```
 
 In Termux-Desktop's Terminal
+
 ```
 xpgold
 ```
