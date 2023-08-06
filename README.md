@@ -77,6 +77,9 @@ In Termux-Desktop's Terminal
 xpgold
 ```
 
+### Microsoft Office 
+[Download](https://mega.nz/file/NEkXTRTZ#cfvEP6htugaJLdhRjjQmkBee8GtnuNDNFUet69NQBQU)
+
 ## Termux 
 [Download](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk) 
 
