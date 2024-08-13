@@ -2,7 +2,7 @@
 
 This is Windows XP Gold for Termux-x11.You can run Photoshop,Blender,PowerISO,Microsoft Office & etc on your android phone.Before you install it on android 12 and 13,disable phantom process killer.
 
-[Watch Video Here](https://youtu.be/UxmQSETvAOc) 
+[Here](https://github.com/atamshkai/Phantom-Process-Killer/tree/main)
 
 ## Preview
 
