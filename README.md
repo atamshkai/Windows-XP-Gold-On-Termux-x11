@@ -4,6 +4,11 @@ This is Windows XP Gold for Termux-x11.You can run Photoshop,Blender,PowerISO,Mi
 
 [Here](https://github.com/atamshkai/Phantom-Process-Killer/tree/main)
 
+## Install Termux-Desktop 
+
+[Termux-Desktop]
+(https://github.com/atamshkai/Termux-Desktop)
+
 ## Preview
 
 ![](https://raw.githubusercontent.com/atamshkai/Windows-XP-Gold-On-Termux-x11/main/xpgold.png)
