@@ -6,8 +6,7 @@ This is Windows XP Gold for Termux-x11.You can run Photoshop,Blender,PowerISO,Mi
 
 ## Install Termux-Desktop 
 
-[Termux-Desktop]
-(https://github.com/atamshkai/Termux-Desktop)
+[Termux-Desktop](https://github.com/atamshkai/Termux-Desktop)
 
 ## Preview
 
